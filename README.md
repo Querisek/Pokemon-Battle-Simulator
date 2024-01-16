@@ -1,2 +1,2 @@
 # Pokemon-Battle-Simulator
-Minimalistic Pokemon battle simulator where you can select pokemon and fight.
+A GUI Pokemon battle simulator application written in java with the use of swing. You simply select a pokemon and fight against other pokemons.
